@@ -1,0 +1,25 @@
+.avatar 
+{
+width: 150px;
+height: 150px;
+
+}
+.business{
+   
+    padding:20px;
+    display: flex;
+    justify-content: space-around;
+
+    margin: 10px auto;
+    background-color: #ddebf8;
+    border-bottom: 5px solid #d8cefe;
+    
+
+}
+.bbd
+{
+ 
+text-align: center;
+color:#2b2839;
+
+}
